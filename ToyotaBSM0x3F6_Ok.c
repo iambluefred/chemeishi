@@ -310,7 +310,7 @@ int main() {
   __enable_irq();
 
 
-  // main pedal loop
+  // main BSM detect loop
   while (1) {
     BSMDetect();
   }
