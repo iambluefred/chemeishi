@@ -1,2 +1,2 @@
 # chemeishi
-# comma ai pedal to BSM CAN
+# BSM LED signal to comma ai pedal
