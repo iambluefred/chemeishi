@@ -1,2 +1,2 @@
 # chemeishi
-# BSM LED signal to comma ai pedal
+# BSM LED signal to toyota bsm signal for pedal board.
